@@ -1,0 +1,10 @@
+.carousel-inner {
+    max-width: 100%;
+  height: auto;
+
+img {
+    height: 500px;
+    object-fit: cover;
+    size-adjust: auto;
+}
+}
